@@ -1,0 +1,24 @@
+{
+  "contacto":[
+    {
+      "fotoURL": "https://i.pinimg.com/originals/3b/ec/b9/3becb99ce453ef13333dd0c6dc3a2bcb.jpg",
+      "nombre": "Eduardo Rodriguez",
+      "telefono": "77664845"
+    },
+    {
+      "fotoURL": "https://i.pinimg.com/originals/f1/80/ca/f180ca39fb98bcbd34f5ee0a7f688162.jpg",
+      "nombre": "David Gonzales",
+      "telefono": "60558723"
+    },
+    {
+      "fotoURL": "https://i.pinimg.com/originals/54/99/d3/5499d3b76aa997b7db7f0a69f6708662.jpg",
+      "nombre": "Jazmin Mendoza",
+      "telefono": "70298272"
+    },
+    {
+      "fotoURL": "https://previews.123rf.com/images/clairev/clairev1108/clairev110800005/10354167-Chico-de-caricatura-caminando-a-la-escuela--Foto-de-archivo.jpg",
+      "nombre": "Jorge Mamani",
+      "telefono": "77800977"
+    }
+  ]
+}
